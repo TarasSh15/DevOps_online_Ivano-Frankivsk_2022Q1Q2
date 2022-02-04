@@ -1,0 +1,18 @@
+93a4da6 HEAD@{0}: merge develop: Fast-forward
+4243bef HEAD@{1}: checkout: moving from develop to main
+93a4da6 HEAD@{2}: commit (merge): merge images and style
+7d587ac HEAD@{3}: merge images: Fast-forward
+059c187 HEAD@{4}: checkout: moving from style to develop
+962722b HEAD@{5}: commit: add css to html
+c1b50f8 HEAD@{6}: commit: add style
+059c187 HEAD@{7}: checkout: moving from images to style
+7d587ac HEAD@{8}: checkout: moving from style to images
+059c187 HEAD@{9}: checkout: moving from develop to style
+059c187 HEAD@{10}: checkout: moving from images to develop
+7d587ac HEAD@{11}: commit: Added images to index.html
+42fbe18 HEAD@{12}: commit: Add images folder
+059c187 HEAD@{13}: checkout: moving from develop to images
+059c187 HEAD@{14}: commit: Add index.html
+4243bef HEAD@{15}: checkout: moving from main to develop
+4243bef HEAD@{16}: commit: Add readme.txt
+3faf71d HEAD@{17}: clone: from https://github.com/TarasSh15/DevOps_online_Ivano-Frankivsk_2022Q1Q2.git
