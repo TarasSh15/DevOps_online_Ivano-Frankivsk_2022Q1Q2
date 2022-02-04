@@ -64,4 +64,4 @@ git push origin --all
 ```
 ## About DevOps
 
-DevOps methodology was created by combining developer and operations specialisations. So DevOps is a specialist that knows development, quality assurance and technology operations. This specialist is involved in every stage of software development life style and all production depends on him.
+DevOps is a methodology created at the junction of development, verification and operations. Its main goal to establish effective interaction on all stages of SW life cycle. DevOps engineer syncs all stages of product deliverance, combining in his work development, qa, sys-ops and even manager's skills.
