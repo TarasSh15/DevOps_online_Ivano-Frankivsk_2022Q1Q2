@@ -15,7 +15,7 @@ Oracle VM VirtualBox is a type 2 hypervisor and it runs on the host operating sy
 
 ## Part 2 VirtualBox
 
-Instaled the latest stable version of VirtualBox and downloaded the latest stable version of Ubuntu Desktop 20.04.3. Created VM1 and install Ubuntu
+Installed the latest stable version of VirtualBox and downloaded the latest stable version of Ubuntu Desktop 20.04.3. Created VM1 and install Ubuntu
 
 <img src="./images/first.jpeg" width="600">
 
