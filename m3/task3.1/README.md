@@ -24,7 +24,7 @@ Checked the connection between servers by running command ping
 
 <img src="images/second_ping.jpg">
 
-Changed Ethernet adapter to Wi-Fi module PT-HOST-NW-1W then appointed stattic address to Client3: 192.168.0.25. Checked the connection to Wi-Fi module.
+Changed Ethernet adapter to Wi-Fi module PT-HOST-NW-1W then appointed static address to Client3: 192.168.0.25. Checked the connection to Wi-Fi module.
 
 <img src="images/wi-fi.jpg">
 
