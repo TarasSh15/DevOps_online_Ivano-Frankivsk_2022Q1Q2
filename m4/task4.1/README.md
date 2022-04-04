@@ -147,9 +147,11 @@ The -a optiop list files or directories including hidden files or directories. T
 
 <img src="images/grepandfind.jpg">
 
-12 ) To organize a screen-by-screen print of the contents of the /etc directory we can execute: 
+12 ) To organize a screen-by-screen print of the contents of the /etc directory we can execute.
 
-``ls /etc/ | less``
+Before we must use command **tty** to determine redirect console.
+
+``ls /etc > /dev/pts/1``
 
 13 ) Device files are generally stored in the /dev directory.Device files are denoted as the following:
 
