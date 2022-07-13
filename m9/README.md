@@ -1,4 +1,4 @@
-# Home work
+# Homework
 <a href='https://github.com/TarasSh15/DevOps_online_Ivano-Frankivsk_2022Q1Q2/blob/main/m1/task1.1/README.md'>Task 1.1</a><br>
 
 <a href='https://github.com/TarasSh15/DevOps_online_Ivano-Frankivsk_2022Q1Q2/blob/main/m2/task2.1/README.md'>Task 2.1</a><br>
